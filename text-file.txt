@@ -1,3 +1,9 @@
 just wanted 
 to try
-ok bro then complict it is
+<<<<<<< HEAD
+ok bro then complict it ii
+
+no complict again :D
+
+lets make a conflict
+>>>>>>> master-copy
